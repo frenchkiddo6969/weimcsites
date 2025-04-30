@@ -1,0 +1,24 @@
+#banner
+image=https://weizkule.is-terrible.com/75NDwvMWZ.png
+text= 
+#navigation
+item-link-1=home.sv
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=home.sv/websites
+item-label-2=Official Index
+item-icon-2=CONTACTS
+item-link-3=home.sv/report
+item-label-3=Report
+item-icon-3=ERROR
+#paragraph
+text=Here are all websites available on the weiMC server through MobileStar TLD Holdings :
+#paragraph
+text=home.sv
+
+#divider
+size=2
+#footer
+title=Copyright
+sub-title=(c) Weizkule - MobileStar
+home-page=home.sv
