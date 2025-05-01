@@ -1,0 +1,24 @@
+#banner
+image=https://stratumzero.is-a-cool-femboy.xyz/75NL1nwf1.png
+text= 
+#navigation
+item-link-1=gov.oc
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=gov.oc/communications
+item-label-2=Telecommunications Bureau
+item-icon-2=WIFI_HIGH
+item-link-3=gov.oc/aboutus
+item-label-3=About
+item-icon-3=INFO
+item-link-4=gov.oc/contact
+item-label-4=Contact
+item-icon-4=MAIL
+#paragraph
+text=Welcome to gov.oc, the official website of the government of Ocostan. On this website, you can access all information and services provided by the Ocostan Government, as for tourists and residents.
+#divider
+size=2
+#footer
+title=Copyright
+sub-title=(c) oocobol
+home-page=gov.oc
