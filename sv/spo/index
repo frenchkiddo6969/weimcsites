@@ -22,17 +22,29 @@ text=SPO Nieuws : Kanaal 8
 #paragraph
 text=&e&l&nRadiozenders:
 #paragraph
-text=SPO Radio 1;
+text=&nSPO Radio 1;
 #paragraph
 text=Doetinlingen : 88.7 MHz
 #paragraph
-text=SPO Radio 2;
+text=Wageselt Eiland : 87.9 MHz
+#paragraph
+text=&nSPO Radio 2;
 #paragraph
 text=Doetinlingen : 90.0 MHz
 #paragraph
-text= Hit Radio SPO 3;
+text=Wageselt Eiland : 104.2 MHz
+#paragraph
+text=&nHit Radio SPO 3;
 #paragraph
 text=Doetinlingen : 99.7 MHz
+#paragraph
+text=Wageselt Eiland : 97.8 MHz
+#paragraph
+text=&nSPO Nieuws;
+#paragraph
+text=Doetinlingen : 105.1 MHz
+#paragraph
+text=Wageselt Eiland : 104.9 MHz
 #footer
 title=Sveland Publiek Omroep
 sub-title=Eigendom van de regering van Sveland
