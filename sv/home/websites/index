@@ -15,7 +15,8 @@ item-icon-3=ERROR
 text=Here are all websites available on the weiMC server through MobileStar TLD Holdings :
 #paragraph
 text=home.sv
-
+#paragraph
+text=spo.sv
 #divider
 size=2
 #footer
