@@ -1,0 +1,51 @@
+#banner
+image=https://weizkule.is-terrible.com/75NH8H9lD.png
+#navigation
+item-link-1=spo.sv
+item-label-1=Startpagina
+item-icon-1=HOME
+item-link-2=spo.sv/klaagt
+item-label-2=Klaagt
+item-icon-2=ERROR
+#header
+text=&l&n&lSveland Publiek Omroep
+#paragraph
+text=Sveland Publiek Omroep is de staatsomroep in Sveland. Er zijn 4 radiozenders en 3 TV-zenders.
+#paragraph
+text=&e&l&nTV-kanalen
+#paragraph
+text=SPO één : Kanaal 1
+#paragraph
+text=SPO Kids : Kanaal 5
+#paragraph
+text=SPO Nieuws : Kanaal 8
+#paragraph
+text=&e&l&nRadiozenders:
+#paragraph
+text=&nSPO Radio 1;
+#paragraph
+text=Doetinlingen : 88.7 MHz
+#paragraph
+text=Wageselt Eiland : 87.9 MHz
+#paragraph
+text=&nSPO Radio 2;
+#paragraph
+text=Doetinlingen : 90.0 MHz
+#paragraph
+text=Wageselt Eiland : 104.2 MHz
+#paragraph
+text=&nHit Radio SPO 3;
+#paragraph
+text=Doetinlingen : 99.7 MHz
+#paragraph
+text=Wageselt Eiland : 97.8 MHz
+#paragraph
+text=&nSPO Nieuws;
+#paragraph
+text=Doetinlingen : 105.1 MHz
+#paragraph
+text=Wageselt Eiland : 104.9 MHz
+#footer
+title=Sveland Publiek Omroep
+sub-title=Eigendom van de regering van Sveland
+home-page=spo.sv
