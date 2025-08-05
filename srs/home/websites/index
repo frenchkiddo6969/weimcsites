@@ -2,13 +2,13 @@
 image=https://weizkule.is-terrible.com/75NDwvMWZ.png
 text= 
 #navigation
-item-link-1=home.sv
+item-link-1=home.srs
 item-label-1=Home
 item-icon-1=HOME
-item-link-2=home.sv/websites
+item-link-2=home.srs/websites
 item-label-2=Official Index
 item-icon-2=CONTACTS
-item-link-3=home.sv/report
+item-link-3=home.srs/report
 item-label-3=Report
 item-icon-3=ERROR
 #paragraph
@@ -16,11 +16,11 @@ text=Here are all websites available on the weiMC server through MobileStar TLD 
 #paragraph
 text=&l&eIn Sveland
 #paragraph
-text=overheid.sv
+text=overheid.srs
 #paragraph
-text=home.sv
+text=home.srs
 #paragraph
-text=spo.sv
+text=spo.srs
 #paragraph
 text=&l&eIn Ocostan
 #paragraph
@@ -32,4 +32,5 @@ size=2
 #footer
 title=Copyright
 sub-title=(c) Weizkule - MobileStar
-home-page=home.sv
+home-page=home.srs
+
