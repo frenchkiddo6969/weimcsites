@@ -2,13 +2,13 @@
 image=https://weizkule.is-terrible.com/75NDwvMWZ.png
 text= 
 #navigation
-item-link-1=home.sv
+item-link-1=home.srs
 item-label-1=Home
 item-icon-1=HOME
-item-link-2=home.sv/websites
+item-link-2=home.srs/websites
 item-label-2=Official Index
 item-icon-2=CONTACTS
-item-link-3=home.sv/report
+item-link-3=home.srs/report
 item-label-3=Report
 item-icon-3=ERROR
 #paragraph
@@ -19,3 +19,4 @@ size=2
 title=Copyright
 sub-title=(c) Weizkule - MobileStar
 home-page=home.sv
+
