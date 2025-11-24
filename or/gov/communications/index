@@ -1,0 +1,21 @@
+#banner
+image=https://stratumzero.is-a-cool-femboy.xyz/75NL1nwf1.png
+text= 
+#navigation
+item-link-1=gov.or
+item-label-1=gov.or
+#paragraph
+text=We are the Communications Bureau of Orland. We provide support for those who have complaints against TV or Radio stations, and you can also apply for an FM/TV/AM license here.
+#paragraph
+text=&e&lHow do I apply for a broadcasting license?
+#paragraph
+text=To apply for a broadcasting license, you have to contact the holder of the Telecommunications Bureau by sending an email to &eocs3@endermail.com&r with the following information:
+#paragraph
+text=&oStation you want to broadcast -> Frequency -> Targeted Audience -> Antenna Polarisation.
+#paragraph
+text=Should you find a pirate broadcaster, &lIMMEDIATELY &r report by email at &eocs3@endermail.com&r as well.
+#footer
+title=Telecommunications Bureau of Orland
+sub-title=Copyright (C) 2025
+
+home-page=gov.or/communications
