@@ -1,0 +1,21 @@
+#banner
+image=https://i.soupco.net/u/JHn0VS.png
+text= 
+#navigation
+item-link-1=home.srs
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=home.sp/websites
+item-label-2=Official Index
+item-icon-2=CONTACTS
+item-link-3=home.sp/report
+item-label-3=Report
+item-icon-3=ERROR
+#paragraph
+text=Proximus Sveland TLD Holdings International - hosted in Doetinlingen, Sveland - provides website TLDs for the entirety of the WeiMC server. This is a fork of Broadnet, managed by weizkule :3
+#divider
+size=2
+#footer
+title=Copyright
+sub-title=(c) Weizkule - Proximus
+home-page=home.sv
