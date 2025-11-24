@@ -1,0 +1,35 @@
+#banner
+image=https://i.soupco.net/u/JHn0VS.png
+text= 
+#navigation
+item-link-1=home.sp
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=home.sp/websites
+item-label-2=Official Index
+item-icon-2=CONTACTS
+item-link-3=home.sp/report
+item-label-3=Report
+item-icon-3=ERROR
+#paragraph
+text=Here are all websites available on the weiMC server through Proximus TLD Holdings :
+#paragraph
+text=&l&eIn Sveland
+#paragraph
+text=overheid.sp
+#paragraph
+text=home.sp
+#paragraph
+text=spo.sp
+#paragraph
+text=&l&eIn Orland
+#paragraph
+text=gov.or
+#paragraph
+text=opb.or
+#divider
+size=2
+#footer
+title=Copyright
+sub-title=(c) Weizkule - Proximus
+home-page=home.sp
