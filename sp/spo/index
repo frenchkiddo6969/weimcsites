@@ -22,15 +22,15 @@ text=SPO Nieuws : Kanaal 8
 #paragraph
 text=&e&l&nRadiozenders:
 #paragraph
-text=SPO Radio 1
+text=SPO P1 - Allrounder
 #paragraph
-text=SPO Radio 2
+text=SPO P2 - Klassieke muziek & cultuur
 #paragraph
-text= Hit Radio SPO 3
+text= SPO P3 - Internationale Top 40
 #paragraph
 text= SPO Nieuws
 title=Sveland Publiek Omroep
 sub-title=Eigendom van de regering van Sveland
 
 
-home-page=spo.sv
+home-page=spo.sp
