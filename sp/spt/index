@@ -1,0 +1,30 @@
+#banner
+image=https://i.soupco.net/u/rodHvJ.png
+
+#navigation
+item-link-1=pakket
+item-label-1=Internetpakket
+item-link-2=mobiele
+item-label-2=Mobiele
+item-link-3=beveiligdewoning
+item-label-3=Beveiligde woning
+
+#banner
+image=https://i.soupco.net/u/K5NBIT.png
+#banner
+image=https://i.soupco.net/u/uTHwrW.png
+#banner
+image=https://i.soupco.net/u/U3JMJ2.png
+
+#header
+text=Beoordelingen van FTTH-toegang zijn gratis!
+scale=1
+align=left
+#paragraph
+text=Vul het formulier in via spt.sp/glasvezelabonnementen, voer je adres in en wij bekijken binnen 7 dagen of je in aanmerking komt voor 1 Gb/s internet
+
+#footer
+title=SPT
+sub-title=Sveland Post, Telegraaf en Telefoon
+home-page=spt.sp
+
