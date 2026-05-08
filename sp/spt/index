@@ -2,11 +2,11 @@
 image=https://i.soupco.net/u/rodHvJ.png
 
 #navigation
-item-link-1=pakket
+item-link-1=spt.sp/pakket
 item-label-1=Internetpakket
-item-link-2=mobiele
+item-link-2=spt.sp/mobiele
 item-label-2=Mobiele
-item-link-3=beveiligdewoning
+item-link-3=spt.sp/beveiligdewoning
 item-label-3=Beveiligde woning
 
 #banner
